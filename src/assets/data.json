@@ -1,0 +1,417 @@
+[
+  {
+    "ratings": 2.25,
+    "Stock": 10,
+    "numberOfReviews": 4,
+    "_id": "6487811077f1c503284c530b",
+    "name": "Asus Tuf A15",
+    "price": 69999,
+    "description": "Processor: AMD Ryzen 7 7735HS Mobile Processor (8-core/16-thread, 16MB L3 cache, up to 4.7 GHz max boost)\r\nMemory: 16GB (8GB SO-DIMM *2) DDR5 4800 MHz Support Up to 32GB 2x SO-DIMM slots | Storage: 512GB PCIe 4.0 NVMe M.2 SSD\r\nPlay over 100 high-quality PC games, plus new and upcoming blockbusters on day one like Halo Infinite, Forza Horizon 5, and Age of Empires and one month of Game Pass-including EA Play.\r\nWith new games added all the time, there’s always something new to play. Age of Empires IV, Back 4 Blood, Battlefield V, Forza Horizon 5, Halo Infinite*, Knockout City, Microsoft Flight Simulator, Minecraft PC Bundle, Need for Speed Heat, Psychonauts2, The Sims 4, Titanfall 2, 12 Minutes\r\nGraphics: NVIDIA GeForce RTX 4050 Laptop GPU with MUX Switch + NVIDIA Advanced Optimus 6GB GDDR6 VRAM 2420MHz* at 140W (2370MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost)\r\nDisplay: 15.6-inch FHD (1920 x 1080) 16:9, 144Hz vIPS-level Anti-glare display, 250nits 1000:1\r\nKeyboard: Backlit Chiclet Keyboard 1-Zone RGB",
+    "category": "Laptop",
+    "images": [
+      {
+        "_id": "64ce0ea3fccb9300142e6260",
+        "public_id": "products/wtqelclhuvdvq6ukftdd",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1691225759/products/wtqelclhuvdvq6ukftdd.jpg"
+      },
+      {
+        "_id": "64ce0ea3fccb9300142e6261",
+        "public_id": "products/jn8nyjezleda1tbrebwk",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1691225760/products/jn8nyjezleda1tbrebwk.jpg"
+      },
+      {
+        "_id": "64ce0ea3fccb9300142e6262",
+        "public_id": "products/qzgztyvi5kt3pimjf90k",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1691225761/products/qzgztyvi5kt3pimjf90k.jpg"
+      },
+      {
+        "_id": "64ce0ea3fccb9300142e6263",
+        "public_id": "products/fnziz2srup2kwbpwzckg",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1691225762/products/fnziz2srup2kwbpwzckg.jpg"
+      },
+      {
+        "_id": "64ce0ea3fccb9300142e6264",
+        "public_id": "products/bkwevrp3hdivrax3pcfz",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1691225763/products/bkwevrp3hdivrax3pcfz.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "_id": "64a71b3573d9d436147bac7c",
+        "user": "64a2cf5aac108a0890343970",
+        "name": "Kim Wexler",
+        "rating": 4,
+        "comment": "Sahi product hai "
+      },
+      {
+        "_id": "64a71f8273d9d436147bac9e",
+        "user": "64a2cea6ac108a0890343965",
+        "name": "Gustavo Fring",
+        "rating": 4,
+        "comment": "Its a good product, battery life could be better."
+      },
+      {
+        "_id": "64a7bc45093713003090d551",
+        "user": "64a7bbaf093713003090d53b",
+        "name": "Pratham gupta",
+        "rating": 1,
+        "comment": "Worst product"
+      },
+      {
+        "_id": "64a81869289a01003099b73f",
+        "user": "64a815ee289a01003099b6e4",
+        "name": "Sunny",
+        "rating": 0,
+        "comment": "Iska to motherboard udd gya re 😭😩"
+      }
+    ],
+    "createdAt": "2023-06-12T20:33:20.209Z",
+    "__v": 4
+  },
+
+  {
+    "ratings": 3.5,
+    "Stock": 5,
+    "numberOfReviews": 2,
+    "_id": "64958635553e482e0867ed7a",
+    "name": "Canon Mark III",
+    "price": 50000,
+    "description": "canon mark 3",
+    "category": "Camera",
+    "images": [
+      {
+        "_id": "64958635553e482e0867ed7b",
+        "public_id": "public_id",
+        "url": "https://m.media-amazon.com/images/I/817VwYq8zkL._SL1500_.jpg"
+      },
+      {
+        "public_id": "public_id",
+        "url": "https://m.media-amazon.com/images/I/81Ydm1BbOZL._SL1500_.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "_id": "64a728a61ac22704284123b2",
+        "user": "64a2cc2159c0da25447fc1cb",
+        "name": "Walter White",
+        "rating": 5,
+        "comment": "Value For Money, Great for street Photography"
+      },
+      {
+        "_id": "64a729241ac22704284123c8",
+        "user": "64a2cf5aac108a0890343970",
+        "name": "Kim Wexler",
+        "rating": 2,
+        "comment": "As a knowledgeable consumer, you understand the importance of finding the right camera that meets your specific needs. That is why we have created this unbiased Product Review Generator to assist you in making an informed decision.\r\n\r\nIntroducing the Camera - a versatile and advanced piece of technology designed to capture your most precious moments with unparalleled clarity and precision. Whether you are a professional photographer"
+      }
+    ],
+    "createdAt": "2023-06-23T11:47:01.803Z",
+    "__v": 2
+  },
+  {
+    "ratings": 4.5,
+    "Stock": 10,
+    "numberOfReviews": 2,
+    "_id": "6495865b553e482e0867ed80",
+    "name": "Dell G3 Gaming i5 11th gen/16GB/512 Gb SSD/ 4GB Graphics GTX 1650ti",
+    "price": 60000,
+    "description": "Dell g3 gaming",
+    "category": "Laptop",
+    "images": [
+      {
+        "_id": "6495865b553e482e0867ed81",
+        "public_id": "Sample_id",
+        "url": "https://m.media-amazon.com/images/I/61nbAXFUnjL._SL1080_.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "_id": "64a73022b431674ea8270613",
+        "user": "64a2cea6ac108a0890343965",
+        "name": "Gustavo Fring",
+        "rating": 5,
+        "comment": "Laptop Reviews\r\nLaptops are evolving at a dramatic pace, and this is the place to track their progress, or lack thereof. The best laptop is out there, and our laptop reviews dig deep into what’s new from the world’s biggest manufacturers to help you find it. From each new iteration of the Apple MacBook "
+      },
+      {
+        "_id": "64a730c2b431674ea827063a",
+        "user": "64a2cc2159c0da25447fc1cb",
+        "name": "Walter White",
+        "rating": 4,
+        "comment": "Is out there, and our laptop reviews dig deep into what’s new from the world’s biggest manufacturers to help you find it. From each new iteration of the Apple MacBook and Microsoft Surface to what’s coming up from likes of Dell, HP, Lenovo, and more, The Verge has you covered."
+      }
+    ],
+    "createdAt": "2023-06-23T11:47:39.492Z",
+    "__v": 2
+  },
+
+  {
+    "ratings": 3.5,
+    "Stock": 10,
+    "numberOfReviews": 2,
+    "_id": "6497588b15c2196034d098d0",
+    "name": "Redmi note 10S",
+    "price": 12200,
+    "description": "Redmi note 10",
+    "category": "SmartPhones",
+    "images": [
+      {
+        "_id": "6497588b15c2196034d098d1",
+        "public_id": "Sample_id",
+        "url": "https://m.media-amazon.com/images/I/81sZamLSPWL._SX679_.jpg"
+      },
+      {
+        "public_id": "Sample_id",
+        "url": "https://m.media-amazon.com/images/I/81RiucMEU4L._SL1500_.jpg"
+      }
+    ],
+    "user": "649595570ab73d5e144f26a5",
+    "reviews": [
+      {
+        "_id": "649759f6003d0e538051a0db",
+        "user": "649595570ab73d5e144f26a5",
+        "name": "Kairen Lee",
+        "rating": 4,
+        "comment": "This is good product"
+      },
+      {
+        "_id": "649761c5bb47875b28158d8b",
+        "user": "64973fb3cab41c59b435c4f0",
+        "name": "John Doe",
+        "rating": 3,
+        "comment": "This is average product"
+      }
+    ],
+    "createdAt": "2023-06-24T20:56:43.192Z",
+    "__v": 3
+  },
+  {
+    "ratings": 3.5,
+    "Stock": 8,
+    "numberOfReviews": 1,
+    "_id": "649ec391527a7f2740ac91d8",
+    "name": "Apple airpods",
+    "price": 12200,
+    "description": "Apple airpods",
+    "category": "Headphones",
+    "images": [
+      {
+        "_id": "649ec391527a7f2740ac91d9",
+        "public_id": "Sample_id",
+        "url": "https://m.media-amazon.com/images/I/615ekapl+pL._SL1500_.jpg"
+      }
+    ],
+    "user": "649595570ab73d5e144f26a5",
+    "reviews": [
+      {
+        "_id": "64d88941ed366e0031e6029a",
+        "user": "64d8884ded366e0031e60284",
+        "name": "abcd",
+        "rating": 0,
+        "comment": ""
+      }
+    ],
+    "createdAt": "2023-06-30T11:59:13.216Z",
+    "__v": 1
+  },
+  {
+    "ratings": 5,
+    "Stock": 0,
+    "numberOfReviews": 1,
+    "_id": "649ec3ce527a7f2740ac91dc",
+    "name": "Apple Macbook pro M2-chip 512GB",
+    "price": 129999,
+    "description": "Apple Macbook pro M2-chip 512GB",
+    "category": "Laptop",
+    "images": [
+      {
+        "_id": "649ec3ce527a7f2740ac91dd",
+        "public_id": "Sample_id",
+        "url": "https://m.media-amazon.com/images/I/81Fm0tRFdHL._SL1500_.jpg"
+      },
+      {
+        "_id": "649ec3ce527a7f2740ac9eef",
+        "public_id": "Sample_id",
+        "url": "https://m.media-amazon.com/images/I/816eBvUCaJL._SL1500_.jpg"
+      }
+    ],
+    "user": "649595570ab73d5e144f26a5",
+    "reviews": [
+      {
+        "_id": "64c6b174eba2cb1bd8ab3e6d",
+        "user": "649595570ab73d5e144f26a5",
+        "name": "Kairen Lee",
+        "rating": 5,
+        "comment": "Best in market"
+      }
+    ],
+    "createdAt": "2023-06-30T12:00:14.317Z",
+    "__v": 1
+  },
+  {
+    "ratings": 4,
+    "Stock": 10,
+    "numberOfReviews": 1,
+    "_id": "64c6b12aeba2cb1bd8ab3e3c",
+    "name": " Apple iPhone 14 Pro Max (512 GB) - Deep Purple",
+    "price": 149000,
+    "description": "17.00 cm (6.7-inch) Super Retina XDR display featuring Always-On and ProMotion\r\nDynamic Island, a magical new way to interact with iPhone\r\n48MP Main camera for up to 4x greater resolution\r\nCinematic mode now in 4K Dolby Vision up to 30 fps\r\nAction mode for smooth, steady, handheld videos\r\nAll-day battery life and up to 29 hours of video playback\r\nVital safety technology — Crash Detection can detect a severe car crash and call for help\r\nA16 Bionic, the ultimate smartphone chip. Superfast 5G cellular\r\nIndustry-leading durability features with Ceramic Shield and water resistance\r\niOS 16 offers even more ways to personalise, communicate and share",
+    "category": "SmartPhones",
+    "images": [
+      {
+        "_id": "64c6b12aeba2cb1bd8ab3e3d",
+        "public_id": "products/qtffg7smjvfzx3nfa1we",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690743073/products/qtffg7smjvfzx3nfa1we.jpg"
+      },
+      {
+        "_id": "64c6b12aeba2cb1bd8ab3e3e",
+        "public_id": "products/kdfjm41a1s3tv7gaksmz",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690743075/products/kdfjm41a1s3tv7gaksmz.jpg"
+      },
+      {
+        "_id": "64c6b12aeba2cb1bd8ab3e3f",
+        "public_id": "products/shazfy3v8htxwhwj5jsp",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690743076/products/shazfy3v8htxwhwj5jsp.jpg"
+      },
+      {
+        "_id": "64c6b12aeba2cb1bd8ab3e40",
+        "public_id": "products/k3qf3e09rfrewjfgnag2",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690743078/products/k3qf3e09rfrewjfgnag2.jpg"
+      },
+      {
+        "_id": "64c6b12aeba2cb1bd8ab3e41",
+        "public_id": "products/wrecfdo8p5tjdimujp8l",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690743080/products/wrecfdo8p5tjdimujp8l.jpg"
+      },
+      {
+        "_id": "64c6b12aeba2cb1bd8ab3e42",
+        "public_id": "products/ndqvyhcc0fnwrmdh4dxs",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690743083/products/ndqvyhcc0fnwrmdh4dxs.jpg"
+      }
+    ],
+    "user": "649595570ab73d5e144f26a5",
+    "reviews": [
+      {
+        "_id": "64c6b154eba2cb1bd8ab3e5c",
+        "user": "649595570ab73d5e144f26a5",
+        "name": "Kairen Lee",
+        "rating": 4,
+        "comment": "Got this at amazing deal"
+      }
+    ],
+    "createdAt": "2023-07-30T18:51:22.736Z",
+    "__v": 1
+  },
+  {
+    "ratings": 4.8,
+    "Stock": 10,
+    "numberOfReviews": 0,
+    "_id": "64c6d0329af8de451824a6a8",
+    "name": "Veirdo® Oversized Loose Baggy Fit Drop Shooulder Half Sleeves Pure Cotton Will Never Die Graphic Printed T-Shirt for Men",
+    "price": 399,
+    "description": "Care Instructions: Hand Wash Only\r\nFit Type: Oversized Fit\r\nNeck: Round Neck, Fit: Oversized Fit, Sleeve: Half Sleeves, Pattern: Printed\r\nMaterial and quality: Premium bio-washed soft and smooth skin friendly 100% Cotton material and well stitched with cotton threads for long lasting use.\r\nDesign and style: Trending Color combination design with gives extra ordinary casual look. Pairing: Pair this Oversize casual half sleeve printed t-shirt with jeans and get noticeable and eye catching look.\r\nHappy Shopping: As we use cotton material, please follow wash-care instructions for long lasting use. Also, once go through product size chart for exact size match according to your body and prevent after purchase size issues.\r\nMaterial Composition: Pure Cotton",
+    "category": "Tops",
+    "images": [
+      {
+        "_id": "64c6d0329af8de451824a6a9",
+        "public_id": "products/gdjb0rz4gfhcxjmvvbyl",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690751022/products/gdjb0rz4gfhcxjmvvbyl.jpg"
+      },
+      {
+        "_id": "64c6d0329af8de451824a6aa",
+        "public_id": "products/qmfq7dnwoe7s55j3pfgg",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690751023/products/qmfq7dnwoe7s55j3pfgg.jpg"
+      },
+      {
+        "_id": "64c6d0329af8de451824a6ab",
+        "public_id": "products/wajtaxolixom8qzqlzxh",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690751025/products/wajtaxolixom8qzqlzxh.jpg"
+      },
+      {
+        "_id": "64c6d0329af8de451824a6ac",
+        "public_id": "products/x5ddf8tvwaoaik1409jc",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690751026/products/x5ddf8tvwaoaik1409jc.jpg"
+      }
+    ],
+    "user": "649595570ab73d5e144f26a5",
+    "reviews": [],
+    "createdAt": "2023-07-30T21:03:46.332Z",
+    "__v": 0
+  },
+  {
+    "ratings": 3.9,
+    "Stock": 10,
+    "numberOfReviews": 0,
+    "_id": "64c6d2ef9af8de451824a6f3",
+    "name": "Nike Men's Lebron XVIII Low Greedy White/Black-Iron Grey-Volt ",
+    "price": 42999,
+    "description": "Package Dimensions ‏ : ‎ 35.89 x 23.19 x 13.11 cm; 1.22 Kilograms\r\nDate First Available ‏ : ‎ 2 September 2021\r\nManufacturer ‏ : ‎ Nike\r\nASIN ‏ : ‎ B09854WHDS\r\nCountry of Origin ‏ : ‎ USA\r\nDepartment ‏ : ‎ Mens\r\nManufacturer ‏ : ‎ Nike\r\nItem Weight ‏ : ‎ 1 kg 220 g\r\nNet Quantity ‏ : ‎ 1.00 count\r\nGeneric Name ‏ : Chaussures de course",
+    "category": "Footwear",
+    "images": [
+      {
+        "_id": "64c6d2ef9af8de451824a6f4",
+        "public_id": "products/lw4zooup3xbgayper7qk",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690751722/products/lw4zooup3xbgayper7qk.jpg"
+      },
+      {
+        "_id": "64c6d2ef9af8de451824a6f5",
+        "public_id": "products/jpoqh0fb4mfjdda4dcp6",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690751724/products/jpoqh0fb4mfjdda4dcp6.jpg"
+      },
+      {
+        "_id": "64c6d2ef9af8de451824a6f6",
+        "public_id": "products/m5cwsdjzjmiplvfvzkzg",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690751725/products/m5cwsdjzjmiplvfvzkzg.jpg"
+      },
+      {
+        "_id": "64c6d2ef9af8de451824a6f7",
+        "public_id": "products/schua3ipy8z84kitykk8",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690751727/products/schua3ipy8z84kitykk8.jpg"
+      }
+    ],
+    "user": "649595570ab73d5e144f26a5",
+    "reviews": [],
+    "createdAt": "2023-07-30T21:15:27.149Z",
+    "__v": 0
+  },
+  {
+    "ratings": 5,
+    "Stock": 10,
+    "numberOfReviews": 0,
+    "_id": "64c6d3cc9af8de451824a724",
+    "name": "Nike Mens Lebron XIX Running Shoe",
+    "price": 17000,
+    "description": "Product Dimensions ‏ : ‎ 33 x 22 x 11 cm; 800 Grams\r\nDate First Available ‏ : ‎ 13 October 2022\r\nManufacturer ‏ : ‎ Nike India Pvt. Ltd.\r\nASIN ‏ : ‎ B0B2BXN815\r\nItem model number ‏ : ‎ DC9339-400\r\nCountry of Origin ‏ : ‎ Vietnam\r\nDepartment ‏ : ‎ Mens\r\nManufacturer ‏ : ‎ Nike India Pvt. Ltd., NIKE INDIA PVT LTD,GROUND & 1ST FLOOR OLYMPIA BUILDING,NO 66/1 BAGMANE TECH PARK,CV RAMAN NAGAR BANGALORE-560093 INDIA\r\nPacker ‏ : ‎ NIKE INDIA PVT LTD,GROUND & 1ST FLOOR OLYMPIA BUILDING,NO 66/1 BAGMANE TECH PARK,CV RAMAN NAGAR BANGALORE-560093 INDIA\r\nImporter ‏ : ‎ NIKE INDIA PVT LTD,GROUND & 1ST FLOOR OLYMPIA BUILDING,NO 66/1 BAGMANE TECH PARK,CV RAMAN NAGAR BANGALORE-560093 INDIA\r\nItem Weight ‏ : ‎ 800 g\r\nItem Dimensions LxWxH ‏ : ‎ 33 x 22 x 11 Centimeters\r\nGeneric Name ‏ : ‎ Running Shoe",
+    "category": "Footwear",
+    "images": [
+      {
+        "_id": "64c6d3cc9af8de451824a725",
+        "public_id": "products/clmj4adhvzddh0lzk2th",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690751942/products/clmj4adhvzddh0lzk2th.jpg"
+      },
+      {
+        "_id": "64c6d3cc9af8de451824a726",
+        "public_id": "products/fg81aa3yabdbpiybssci",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690751943/products/fg81aa3yabdbpiybssci.jpg"
+      },
+      {
+        "_id": "64c6d3cc9af8de451824a727",
+        "public_id": "products/wdd1l6euyvtx8w683giq",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690751945/products/wdd1l6euyvtx8w683giq.jpg"
+      },
+      {
+        "_id": "64c6d3cc9af8de451824a728",
+        "public_id": "products/m3cbxfwd9fjjxp1t8zvk",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690751947/products/m3cbxfwd9fjjxp1t8zvk.jpg"
+      },
+      {
+        "_id": "64c6d3cc9af8de451824a729",
+        "public_id": "products/jx3teh0pbgtawrabxnmw",
+        "url": "https://res.cloudinary.com/dsge3ok9k/image/upload/v1690751949/products/jx3teh0pbgtawrabxnmw.jpg"
+      }
+    ],
+    "user": "649595570ab73d5e144f26a5",
+    "reviews": [],
+    "createdAt": "2023-07-30T21:19:08.950Z",
+    "__v": 0
+  }
+]
